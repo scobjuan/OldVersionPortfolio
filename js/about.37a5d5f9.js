@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkportfolio_vuejs"]=self["webpackChunkportfolio_vuejs"]||[]).push([[443],{4007:function(n,u,t){t.r(u),t.d(u,{default:function(){return l}});var e=t(3396);const o={class:"about"},r=(0,e._)("h1",null,"This is an about page",-1),s=[r];function a(n,u){return(0,e.wg)(),(0,e.iD)("div",o,s)}var i=t(89);const c={},f=(0,i.Z)(c,[["render",a]]);var l=f}}]);
+//# sourceMappingURL=about.37a5d5f9.js.map
